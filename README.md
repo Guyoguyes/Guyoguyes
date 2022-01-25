@@ -27,5 +27,5 @@ I make elegant and professional Android apps, iOS apps and Websites for a living
 
   
   
- Take a look at my repos and lets get in touch :e-mail: [@Guyo](https://www.linkedin.com/in/guyo-abdub/)
+ #####                         Take a look at my repos and lets get in touch :e-mail: [@Guyo](https://www.linkedin.com/in/guyo-abdub/)
 
