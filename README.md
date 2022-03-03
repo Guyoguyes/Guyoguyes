@@ -7,7 +7,7 @@ I make elegant and professional Android apps, iOS apps and Websites for a living
 
 - :boom: Interested in mobile development, Recent fous on backend
 
-- :superhero_man: Android developer @ Fintech
+- :superhero_man: Android developer @ Fintech-Group @DIT
 
 - :eagle: On a never-ending quest to learn
 
