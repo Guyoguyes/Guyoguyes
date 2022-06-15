@@ -1,6 +1,17 @@
 
 # :smiley: Heyyo , I'm Guyo :kenya:
 
+<table>
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+  <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 I make elegant and professional Android apps, iOS apps and Websites for a living
 
 - :rocket: Passion for technology
