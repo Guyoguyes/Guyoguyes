@@ -2,10 +2,8 @@
 # :smiley: Heyyo , I'm Guyo :kenya:
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px"></b></td>
-    <td><b style="font-size:30px"></b></td>
- </tr>
+ <tbody>
+ 
   <tr>
     <td>I make elegant and professional Android apps, iOS apps and Websites for a living
 
@@ -32,6 +30,7 @@
      <a href="https://app.daily.dev/guyesa"><img src="https://api.daily.dev/devcards/a98ee2c0471f4fb484b70c80d741083a.png?r=ith" width="400" alt="Guyo Abdub's Dev Card"/></a>
 </td>
  </tr>
+  </tbody>
 </table>
 
 
