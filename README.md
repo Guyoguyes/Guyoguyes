@@ -9,7 +9,9 @@
 
 - :rocket: Passion for technology
 
-- :boom: Interested in mobile development, Recent fous on backend
+- :boom: Interested in mobile development, Recent focus on backend
+     
+- :hugs: AI/ML Enthusiastic
 
 - :superhero_man: Software developer @ Fintech-Group @DIT
 
