@@ -5,7 +5,7 @@
  <tbody>
  
   <tr>
-    <td>I make elegant and professional Android apps, iOS apps and Websites for a living
+    <td style="border-style: dashed">I make elegant and professional Android apps, iOS apps and Websites for a living
 
 - :rocket: Passion for technology
 
