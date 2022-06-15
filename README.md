@@ -28,11 +28,7 @@
 
 **Server:** Node, Express, Java, SpringBoot, Python, Django :chart:
 </td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-
-I make elegant and professional Android apps, iOS apps and Websites for a living
+    <td>I make elegant and professional Android apps, iOS apps and Websites for a living
 
 - :rocket: Passion for technology
 
@@ -52,8 +48,9 @@ I make elegant and professional Android apps, iOS apps and Websites for a living
 **Client:** Angular, React, Boostrap, Material Design :desktop_computer:
 
 **Server:** Node, Express, Java, SpringBoot, Python, Django :chart:
-
-
+</td>
+ </tr>
+</table>
 
 
   
