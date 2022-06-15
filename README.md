@@ -11,7 +11,7 @@
 
 - :boom: Interested in mobile development, Recent focus on backend
      
-- :hugs: AI/ML Enthusiastic
+- :hugs: AI/ML Enthusiastic/Student
 
 - :superhero_man: Software developer @ Fintech-Group @DIT
 
