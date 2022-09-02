@@ -1,5 +1,5 @@
 
-# :smiley: Heyyo , I'm Guyo :kenya:
+# :smiley: Heyyo , I'm Guyo <img height="60" src="https://github.com/Guyoguyes/Guyoguyes/blob/master/kenya.gif">
 
 <table border="0" style="border-style: dashed">
  <tbody>
