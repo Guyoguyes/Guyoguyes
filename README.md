@@ -5,8 +5,8 @@
  <tbody>
  
   <tr>
-    <td border-style="dashed">I make elegant and professional Android apps, iOS apps and Websites for a living
-
+    <td border-style="dashed">I make elegant and professional Software Engineer & Mobile Developer <br/> 
+    
 - :rocket: Passion for technology
 
 - :boom: Interested in mobile development, Recent focus on backend
