@@ -42,6 +42,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
      
 </td>
+   <td>
+     <a href="https://app.daily.dev/guyoguyes"><img src="https://api.daily.dev/devcards/b894eb1e372a42af8cdc089741375b34.png?r=jid" width="400" alt="Guyo Abdub's Dev Card"/></a>
+   </td>
     <td>
      <a href="https://app.daily.dev/guyesa"><img src="https://api.daily.dev/devcards/a98ee2c0471f4fb484b70c80d741083a.png?r=ith" width="400" alt="Guyo Abdub's Dev Card"/></a>
 </td>
