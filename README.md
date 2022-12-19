@@ -79,7 +79,7 @@
      </td>
       <td>
      <h3 align="left">Support:</h3>
-       <p>If you like our work, please consider buying us a coffee.
+       <p>If you like our work, please consider buying me a coffee.
 Thank you for your support!</p>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/guyoguyes.code"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/guyoguyes.code" /></a></p>
      </td>
