@@ -35,7 +35,7 @@
 - ⚡ Fun Activities **Soccer, Gaming, Scouting**
    </td>
    <td>
- <a href="https://app.daily.dev/guyoguyes"><img src="https://api.daily.dev/devcards/b894eb1e372a42af8cdc089741375b34.png?r=jid" width="400" alt="Guyo Abdub's Dev Card"/></a>
+ <a href="https://app.daily.dev/guyoguyes"><img src="https://api.daily.dev/devcards/b894eb1e372a42af8cdc089741375b34.png?r=01d" width="400" alt="Guyo Abdub's Dev Card"/></a>
    </td>
  </tr>
 </table>
