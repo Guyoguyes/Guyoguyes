@@ -18,7 +18,7 @@
   <tr>
    <td>
     
-- 🔭 I’m currently working on [a legal web app using python flask](https://github.com/Guyoguyes/Insomniacs-API)
+- 🔭 I’m currently working on [a legal web app using python Django](https://github.com/Guyoguyes/Insomniacs-API)
 
 - 🌱 I’m currently learning **Python(DSA), Automation and SQL**
 
