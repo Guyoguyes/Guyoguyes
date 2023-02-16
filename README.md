@@ -7,12 +7,8 @@
  
   <tr> -->
 <!--     <td border-style="dashed"> -->
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guyoguyes&theme=onedark" alt="guyoguyes" /></a> </p>
+  <p align="left"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=guyo-abdub" target="_blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=linkedIn&style=for-the-badge" alt="guyoguyes" /></a> </p>   <p align="left"> <a href="https://twitter.com/guyoguyes" target="blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=twitter&style=for-the-badge" alt="guyoguyes" /></a> </p>
 
-
-<p align="left"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=guyo-abdub" target="_blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=linkedIn&style=for-the-badge" alt="guyoguyes" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/guyoguyes" target="blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=twitter&style=for-the-badge" alt="guyoguyes" /></a> </p>
 
 <table border="0" style="border-style: dashed">
   <tr>
