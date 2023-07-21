@@ -14,7 +14,7 @@
   <tr>
    <td>
     
-- 🔭 I’m currently working on [a legal web app using python Django](https://github.com/Guyoguyes/Insomniacs-API)
+- 🔭 I’m currently working on [Build the largest STEM community in Kenya](https://northernbox.org/)
 
 - 🌱 I’m currently learning **Python(DSA), Automation and SQL**
 
