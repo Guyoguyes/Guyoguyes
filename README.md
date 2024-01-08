@@ -1,6 +1,6 @@
 
 # <h1 align="center"> :smiley:  Hi 👋, I'm Guyo <img height="60" src="https://github.com/Guyoguyes/Guyoguyes/blob/master/kenya.gif"></h1><br/>
-<h3 align="center">A passionate Software Engineer from Kenya</h3> 
+<h3 align="center">A Software Engineer from Kenya</h3> 
   <p align="left"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=guyo-abdub" target="_blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=linkedIn&style=for-the-badge" alt="guyoguyes" /></a> </p>   <p align="left"> <a href="https://twitter.com/guyoguyes" target="blank"><img src="https://img.shields.io/twitter/follow/guyoguyes?logo=twitter&style=for-the-badge" alt="guyoguyes" /></a> </p>
 
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **different projects to contribute my skills and also build on it**
 
-- 👨‍💻 Checkout my portfolio [guyoabdub.netlify.app](guyoabdub.netlify.app)
+- 👨‍💻 Checkout my portfolio [visit](https://guyoabdub.vercel.app/)
 
 - 💬 Ask me about **Financial Software(Fintech), Community building, Coding**
 
