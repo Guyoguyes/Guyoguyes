@@ -10,7 +10,7 @@
     
 - 🔭 I’m currently working on [Build the largest STEM community in Kenya](https://northernbox.org/)
 
-- 🌱 I’m currently learning **JavaScript*NestJs**
+- 🌱 I’m currently mastering **JavaScript*NestJs**
 
 - 👯 I’m looking to collaborate on **different projects to contribute my skills and also build on it**
 
